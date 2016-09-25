@@ -1,0 +1,10 @@
+{
+  "name": "Animal-101",
+  "version": "1.0.0",
+  "description": "A minimal Electron application Animal 101",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kanneki/Animal-101.git"
+  }
+}
