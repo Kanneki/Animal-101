@@ -9,6 +9,6 @@ Use
 2. $ cd Animal-101
 3. $ npm install && npm start
 
-Help *-*
+Help 
 =========
 ##### Im new at programming so you may find some errors so please fix theme :) !!
